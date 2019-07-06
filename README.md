@@ -1,6 +1,7 @@
 # image data augmentation script
-输入图片后，对图片进行裁剪，旋转，改变颜色，投影变换，得到不同效果的图片并保存，以此进行图像数据增广，获得大量数据<br>
-预先完成函数random_warp和random_light_color,再进行整合<br>
+功能说明：<br>
+* 输入图片后，对图片进行裁剪，旋转，改变颜色，投影变换，得到不同效果的图片并保存，以此进行图像数据增广，获得大量数据<br>
+预先编写函数random_warp和random_light_color,再进行处理<br>
 <br>
 函数*random_warp*对图片进行投影变换，*random_light_color*改变图片的颜色<br>
 程序运行时设定有两次输入<br>
