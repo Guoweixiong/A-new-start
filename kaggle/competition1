@@ -1,0 +1,13 @@
+''' What we should know before coding
+
+
+ps: learned from the website that "https://www.kaggle.com/kabure/eda-feat-engineering-encode-conquer"
+
+What's the target distribution and what data type it is?
+What is the type of features we have and the name?! These names can tell us anything?
+What's the most common values in all cateogory's we have?
+How many binary features we have?
+How many missing values?
+Which type of transformations we need to apply?! 
+
+'''
